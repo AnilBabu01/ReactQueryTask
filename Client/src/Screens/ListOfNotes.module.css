@@ -1,0 +1,14 @@
+.maincard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.innearcard{
+    margin-top: 1%;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 1%;
+    width: 24%;
+    margin: 1rem;
+}
